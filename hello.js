@@ -2,5 +2,6 @@ const a=()=>{
 return 6
 }
 const b=()=>{
-    
+    a=5
+   return a 
 }
