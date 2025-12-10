@@ -7,6 +7,10 @@ alert(a)
     a='5'
    return a 
 }
+
+
+const e=()=>{
+alert("e")    }
 const c=()=>{
   console.log("cccgit");
     }
