@@ -7,6 +7,11 @@ alert(a)
     a='5'
    return a 
 }
+
+const d=()=>{
+    confirm("are you shore? ") 
+
 const c=()=>{
   console.log("cccgit");
+
     }
