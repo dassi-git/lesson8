@@ -11,3 +11,6 @@ alert(a)
 
 const e=()=>{
 alert("e")    }
+const c=()=>{
+  console.log("cccgit");
+    }
